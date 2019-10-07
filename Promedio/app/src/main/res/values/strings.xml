@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Promedio</string>
+    <string name="Texto_view">Estatus del alumno</string>
+    <string name="Caja1">Valor 1</string>
+    <string name="Caja2">Valor 2</string>
+    <string name="Caja3">Valor 3</string>
+    <string name="Boton">Evaluar</string>
+
+
+</resources>
